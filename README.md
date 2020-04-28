@@ -6,7 +6,31 @@
 <tr><th colspan="5">自动驾驶技术</th></tr>
 <tr><th width="200">1.环境感知</th><th width="200">2.定位与地图构建</th><th width="200">3.路径规划</th><th width="200">4.运动控制</th><th width="200">5.软件系统</th></tr>
 <tr>
-<td><ol><li>【计算机视觉】</li><li>【深度学习】</li><li>【传感融合】</li></ol></td>
+<td><ol>
+    <li><details>
+    <summary><a href="#cv">计算机视觉</a></summary><p><ol>
+    <li>EKF-SLAM</li>
+    <li>Fast-SLAM</li></ol></p>
+    </details></li>
+    <li><details>
+    <summary><a href="#dl">深度学习</a></summary><p><ol>
+    <li>神经网络基础</li>
+    <li>线性回归</li>
+    <li>线性分类</li>
+    <li>深度神经网络</li>
+    <li>卷积神经网络</li>
+    <li>TensorFlow</li>
+    <li>LeNet</li>
+    <li>Keras</li>
+    </ol></p>
+    </details></li>
+    <li><details> 
+    <summary>传感融合</summary><p><ol>
+    <li></li>
+    <li></li></ol></p>
+    </details></li>
+    </ol>
+    </td>    
 <td><ol>
     <li><details>
     <summary><a href="#loc">定位</a></summary><p><ol>
