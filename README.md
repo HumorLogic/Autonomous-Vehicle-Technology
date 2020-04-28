@@ -16,7 +16,7 @@
    4. [轨迹生成](#)
 4. [【运动控制】](#motioncontrol)
    1. [运动模型](#model)
-   2. [PID控制]（#pid）
+   2. [PID控制](#pid)
    3. [MPC](#mpc)
 5. [【软件系统】](#software)
    1. [ROS](#ros)
