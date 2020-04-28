@@ -16,9 +16,10 @@
 <tr>
 <td><ol><li>激光雷达</li><li>毫米波雷达</li><li>GPS</li><li>IMU</li><li>摄像头</li></ol></td>
 <td><ol><li>功能安全</li><li>技术安全概念</li><li>危险分析和风险评估</li><li>软件和硬件安全</li></ol></td>
-<td><ol><li>【激光雷达】</li><li>【毫米波雷达】</li><li>【IMU】</li></ol></td>
-<td><ol><li>【激光雷达】</li><li>【毫米波雷达】</li><li>【IMU】</li></ol></td>
-<td><ol><li>ROS</li><li>RTOS</li><li>Apollo</li><li>Autoware</li></ol></td>
+<td><ol><li>CARLA Simulator</li></ol></td>
+<td><b>数学:</b><ol><li>微积分</li><li>概率论与统计学</li><li>线性代数</li></ol>
+    <b>编程语言:</b><ol><li>C/C++</li><li>python</li></ol></td>
+<td><ul><li>...</li></ul></td>
 </tr>
 
 
