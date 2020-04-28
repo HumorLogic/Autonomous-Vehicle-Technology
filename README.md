@@ -65,16 +65,15 @@
 <td><ol><li>激光雷达</li><li>毫米波雷达</li><li>GPS</li><li>IMU</li><li>摄像头</li></ol></td>
 <td><ol><li>功能安全</li><li>技术安全概念</li><li>危险分析和风险评估</li><li>软件和硬件安全</li></ol></td>
 <td><ol><li>CARLA Simulator</li></ol><img height="50"/></td>
-
 </tr>
 
-
 </tr>
-<tr><th width="250">9.基础知识</th><th width="250">10.相关论文</th><th width="250">11.</th><th width="250">12.</th></tr>
+<tr><th width="250">9.基础知识</th><th width="250">10.相关工具</th><th width="500" colspan="2">11.相关论文书籍</th></tr>
 <tr>
 <td><u>数学:</u><ol><li>微积分</li><li>概率论与统计学</li><li>线性代数</li></ol>
     <u>编程语言:</u><ol><li>C/C++</li><li>python</li></ol></td>
-    <td></td>  <td></td>  <td></td>
+    <td><ol><li>Docker</li></ol></td>
+    <td colspan="2"></td>
 
 </tr>
 
