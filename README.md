@@ -9,17 +9,17 @@
 <td><ol><li>【计算机视觉】</li><li>【深度学习】</li><li>【传感融合】</li></ol></td>
 <td><ol>
     <li><details>
-    <summary>1.定位</summary><p><ol>
+    <summary>定位</summary><p><ol>
     <li>马尔可夫定位</li>
     <li>粒子滤波</li></ol></p>
     </details></li>
     <li><details>
-    <summary>2.SLAM</summary><p><ol>
+    <summary>SLAM</summary><p><ol>
     <li>EKF-SLAM</li>
     <li>Fast-SLAM</li></ol></p>
     </details></li>
     <li><details> 
-    <summary>3.高精地图</summary><p><ol>
+    <summary>高精地图</summary><p><ol>
     <li></li>
     <li></li></ol></p>
     </details></li>
