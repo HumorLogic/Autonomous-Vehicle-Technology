@@ -1,8 +1,8 @@
 # 自动驾驶技术
 
-<table>
+<table width="800">
 <tr><th colspan="3">自动驾驶技术</th></tr>
-<tr><th>环境感知</th><th>定位与地图构建</th><th>路径规划</th></tr>
+<tr><th width="200">环境感知</th><th width="200">定位与地图构建</th><th width="200">路径规划</th></tr>
 <tr>
 <td><ol><li>计算机视觉</li><li>深度学习</li><li>传感融合</li></ol></td>
 <td><ol><li>定位</li><li>SLAM</li><li>高精地图</li></ol></td>
