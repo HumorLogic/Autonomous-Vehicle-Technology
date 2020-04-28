@@ -7,7 +7,24 @@
 <tr><th width="200">1.环境感知</th><th width="200">2.定位与地图构建</th><th width="200">3.路径规划</th><th width="200">4.运动控制</th><th width="200">5.软件系统</th></tr>
 <tr>
 <td><ol><li>【计算机视觉】</li><li>【深度学习】</li><li>【传感融合】</li></ol></td>
-<td><ol><li><a href="#loc">定位</a></li><li>SLAM</li><li>高精地图</li></ol></td>
+<td><ol>
+    <li><details>
+    <summary>1.定位</summary><p><ol>
+    <li>马尔可夫定位</li>
+    <li>粒子滤波</li></ol></p>
+    </details></li>
+    <li><details>
+    <summary>2.SLAM</summary><p><ol>
+    <li>EKF-SLAM</li>
+    <li>Fast-SLAM</li></ol></p>
+    </details></li>
+    <li><details> 
+    <summary>3.高精地图</summary><p><ol>
+    <li></li>
+    <li></li></ol></p>
+    </details></li>
+    </ol>
+    </td>
 <td><ol><li>路径查找</li><li>预测</li><li>行为规划</li><li>轨迹生成</li></ol></td>
 <td><ol><li>运动模型</li><li>PID控制</li><li>MPC</li></ol></td>
 <td><ol><li>ROS</li><li>RTOS</li><li>Apollo</li><li>Autoware</li></ol></td>
