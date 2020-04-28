@@ -1,6 +1,6 @@
 # 自动驾驶技术
 
-<p><img height="10"/></p>
+<p><img height="500" src="/imgs/selfdriving.png"/></p>
 
 <table>
 
