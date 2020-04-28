@@ -9,8 +9,14 @@
 <td><ol>
     <li><details>
     <summary><a href="#cv">计算机视觉</a></summary><p><ol>
-    <li>EKF-SLAM</li>
-    <li>Fast-SLAM</li></ol></p>
+    <li>相机标定</li>
+    <li>梯度和颜色空间</li>
+    <li>深度学习和计算机视觉</li>
+    <li>支持向量机</li>
+    <li>决策树</li>
+    <li>目标检测</li>
+    <li><i>车道寻找项目</i></li>
+    <li><i>车辆检测和追踪项目</i></li></ol></p>
     </details></li>
     <li><details>
     <summary><a href="#dl">深度学习</a></summary><p><ol>
