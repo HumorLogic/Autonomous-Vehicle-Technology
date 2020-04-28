@@ -1,9 +1,9 @@
 # 自动驾驶技术
 
-<p><img height="500" src="/imgs/selfdriving.png"/></p>
+<p align="center" ><img height="200" src="/imgs/selfdriving.png"/></p>
 
 <table>
-
+<tr><th colspan="5">自动驾驶技术</th></tr>
 <tr><th width="200">1.环境感知</th><th width="200">2.定位与地图构建</th><th width="200">3.路径规划</th><th width="200">4.运动控制</th><th width="200">5.软件系统</th></tr>
 <tr>
 <td><ol><li>【计算机视觉】</li><li>【深度学习】</li><li>【传感融合】</li></ol></td>
