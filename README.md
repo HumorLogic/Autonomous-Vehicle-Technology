@@ -58,7 +58,6 @@
     </td>
 <td><ol><li>路径查找</li><li>预测</li><li>行为规划</li><li>轨迹生成</li></ol></td>
 <td><ol><li>运动模型</li><li>PID控制</li><li>MPC</li></ol></td>
-
 </tr>
 <tr><th width="250">5.软件系统</th><th width="250">6.硬件系统</th><th width="250">7.系统安全</th><th width="250">8.仿真模拟</th></tr>
 <tr>
@@ -67,25 +66,32 @@
 <td><ol><li>功能安全</li><li>技术安全概念</li><li>危险分析和风险评估</li><li>软件和硬件安全</li></ol></td>
 <td><ol><li>CARLA Simulator</li></ol><img height="50"/></td>
 </tr>
-
-</tr>
 <tr><th width="250">9.基础知识</th><th width="250">10.相关工具</th><th width="500" colspan="2">11.相关论文书籍</th></tr>
 <tr>
 <td><u>数学:</u><ol><li>微积分</li><li>概率论与统计学</li><li>线性代数</li></ol>
     <u>编程语言:</u><ol><li>C/C++</li><li>python</li></ol></td>
     <td><ol><li>Docker</li></ol></td>
     <td colspan="2"></td>
-
 </tr>
-
 </table>
+
+
+
+
+
+
+
+
 
 ----------
 
 
 
 ## 定位与地图构建
-1. 定位<a id="loc"></a>
+
+<a id="loc"></a>
+
+1. 定位
    1. 马尔可夫定位
    2. 粒子滤波
 2. SLAM
@@ -130,6 +136,7 @@
    3. [危险分析和风险评估](#)
    4. [软件和硬件安全](#)
 8. [【模拟仿真】](#simulator)
+   
    1. [CARLA Simulator](#carla)
 9. [【基础知识】](#basics)
    1. [数学](#math)
@@ -140,7 +147,7 @@
       1. C++
       2. python
 10. [【相关论文】](#paper)
-     
+    
     
 
 ---------------------
